@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-primary {
+  background-color: #458ff6;
+}
+
+.text-primary {
+  color: #233348;
+}
+
+.text-secondary {
+  color: #7d7987;
+}
+
+.text-blue {
+  color: #4089ed;
+}
+
+.text-blue-secondary {
+  color: #5b9bf3;
+}
+
+.border-blue {
+  border-color: #4089ed;
+}
+
+.font-mulish-light {
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+}
+
+.font-mulish-medium {
+  font-family: "Mulish", sans-serif;
+  font-weight: 600;
+}
+
+.font-mulish-bold {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+}
+
+.font-ubuntu-medium {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.font-manrope-medium {
+  font-family: "Manrope", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bg-custom-gradient {
+  background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
+}
